@@ -20,7 +20,7 @@ properties:
   expires_in:
     type: integer
     format: int64
-    example: 3600
+    example: 502146654813154123135131353154211542135421
     description: |-
       The time in seconds in seconds by which this token will expire.
 
